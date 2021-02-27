@@ -6,7 +6,7 @@
 To perform Exploratory Data Analysis on year-wise and state-wise dataset of road accidents in India between 1970-2017.
 
 ## Source of Dataset
-The datasets were downloaded from government website that you can find !here(https://data.gov.in/catalog/road-accidents-india-2017)
+The datasets were downloaded from government website that you can find here-(https://data.gov.in/catalog/road-accidents-india-2017)
 
 ## Insights from EDA
 *Average Fatal accidents in all the states of India is around 3744.
@@ -17,3 +17,8 @@ The datasets were downloaded from government website that you can find !here(htt
 * And lastly, in Karnataka 4588 people were killed by "hitting from back" and in Tamil Nadu 3507 pedestrian were killed. While, Uttar Pradesh records the most hit and run death cases(i.e 3269 deaths) in the year 2017.
 
 ## Graphs from EDA
+![newplot (5)](https://user-images.githubusercontent.com/65728129/109378022-41ba9680-78f5-11eb-8019-f0055744a41f.png)
+![newplot (4)](https://user-images.githubusercontent.com/65728129/109378026-43845a00-78f5-11eb-86cf-a862fe316a1d.png)
+![newplot (3)](https://user-images.githubusercontent.com/65728129/109378029-44b58700-78f5-11eb-9013-94511a71ef8f.png)
+![newplot (2)](https://user-images.githubusercontent.com/65728129/109378030-467f4a80-78f5-11eb-9ac1-c6e2437af99a.png)
+![newplot (1)](https://user-images.githubusercontent.com/65728129/109378031-48490e00-78f5-11eb-9e05-1b834415005c.png)
